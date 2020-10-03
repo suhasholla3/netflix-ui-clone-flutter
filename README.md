@@ -22,5 +22,3 @@ The most loved video streaming service provider Netlflix User Interface Clone in
 ### More Screen
 
 ![Home Screen](https://i.ibb.co/QNzQQkh/Screenshot-20201003-113846-Original.png)
-
-<img src="https://i.ibb.co/QNzQQkh/Screenshot-20201003-113846-Original.png" alt="Screenshot-20201003-113846-Original" border="0" width="900" height="900">
